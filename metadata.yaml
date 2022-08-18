@@ -1,11 +1,16 @@
 _repo: Modern-house-plans-for-everybody-For-village-and-country-residences-costing-from-two-hundred-__68706
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68706-h/images/cover.jpg
 creator:
   author:
     agent_name: Reed, S. B.
     gutenberg_agent_id: '54907'
     url: http://www.gutenberg.org/2009/agents/54907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68706#Modern-house-plans-for-everybody-For-village-and-country-residences-costing-from-two-hundred-_
 gutenberg_issued: '2022-08-07'
 identifiers:
   gutenberg: '68706'
